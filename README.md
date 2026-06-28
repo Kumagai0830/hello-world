@@ -1,2 +1,3 @@
-# hello-world
+# 2026ソフトウェア工学演習
+第11回演習課題Hello-World
 このリポジトリはGithub Flowを実行するためのリポジトリです
